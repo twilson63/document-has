@@ -7,7 +7,7 @@ Browser example using browserify cdn.
 ``` html
 <script src="https://wzrd.in/standalone/document-has@latest"></script>
 <script>
-DocumentHas(
+documentHas(
   Array(
     'h1',
     'p',
@@ -17,6 +17,10 @@ DocumentHas(
 )
 </script>
 ```
+
+Example
+
+<a class="jsbin-embed" href="https://jsbin.com/nulabe/3/embed?html,output">Hello World on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.36.16"></script>
 
 ## Contributing
 
